@@ -1,6 +1,4 @@
-# suicide_indicator_r Proposal
-
-**Group 14:** Qurat-ul-Ain Azim, Stepan Zaiatc, Zilong Yi, Ty Andrews
+# Suicides-Analysis-Dash Proposal
 
 This report outlines the identified problem and proposed dashboard solution.
 
