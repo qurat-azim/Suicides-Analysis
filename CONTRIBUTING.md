@@ -54,5 +54,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `suicides-Analysis-Dash` project is released with a
+Please note that the `Suicides-Analysis-Dash` project is released with a
 [Code of Conduct](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/CODE_OF_CONDUCT.md). By contributing to this project you agree to abide by its terms.
