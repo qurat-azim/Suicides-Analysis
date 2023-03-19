@@ -1,4 +1,4 @@
-# Suicides-Analysis
+# Suicides-Analysis-Dash
 
 This is a Dash app that displays data about suicides in different countries and years. The analysis is based on the dataset for [Suicide Rates Overview (1985 to 2021)](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021). The app focuses on analyzing suicide numbers and rates as they vary by different countries in the world, and how these numbers have changed over time. More details on the reserach question and user persona can be found in the [`proposal.md`](https://github.com/UBC-MDS/suicide_indicator_r/blob/main/proposal.md) file. You can find the deployed app [here](https://suicides-analysis.onrender.com/)
 
@@ -26,4 +26,4 @@ Please refer to the original data sources for more information on how the data w
 
 ## License
 
-`Suicides-Analysis-Dash` was created by Qurat-ul-Ain Azim. The materials of this project are licensed under the [MIT license](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/LICENSE). If re-using/re-mixing please provide attribution and link to this webpage.
+`Suicides-Analysis-Dash` was created by [Qurat-ul-Ain Azim](https://github.com/qurat-azim). The materials of this project are licensed under the [MIT license](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/LICENSE). If re-using/re-mixing please provide attribution and link to this webpage.
