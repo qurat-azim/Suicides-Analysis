@@ -6,7 +6,7 @@ The app is built using the Dash library, which provides a framework for building
 
 ## Usage
 
-This code is a Python script that creates a dashboard application using the Dash library. The application allows the user to select a country and a year using dropdown menus and a slider, and displays two interactive charts based on the data for the selected country and year. The charts are created using the Altair library and are embedded in HTML iframes in the dashboard.
+This app is developed with a Python script that creates a dashboard application using the Dash library. The application allows the user to select a country and a year using dropdown menus and a slider, and displays two interactive charts based on the data for the selected country and year. The charts are created using the Altair library and are embedded in HTML iframes in the dashboard.
 
 The first chart is a bar chart that shows the number of suicides by gender for the selected country and year. The chart has a horizontal axis for the number of suicides and a vertical axis for the gender. The bars are colored based on gender, and the chart displays the exact number of suicides as a tooltip when the user hovers over a bar.
 
