@@ -14,3 +14,16 @@ The second chart is a pie chart that shows the number of suicides by age range f
 
 The data used contains information about suicides around the world from 1985 to 2021, including the `country`, `year`, `gender`, `age`, and `number of suicides`.
 
+## Contributing to the project
+
+Interested in contributing? Check out the contributing guidelines [here](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/CONTRIBUTING.md). Please note that this project is released with a [Code of Conduct](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
+
+## References
+
+The dataset used in this project is the Suicide Rates Overview (1985 to 2021) available on Kaggle. The data was originally sourced from the United Nations Development Program, World Bank and World Health Organization.
+
+Please refer to the original data sources for more information on how the data was collected and processed.
+
+## License
+
+`Suicides-Analysis-Dash` was created by Qurat-ul-Ain Azim. The materials of this project are licensed under the [MIT license](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/LICENSE). If re-using/re-mixing please provide attribution and link to this webpage.
