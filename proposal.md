@@ -23,8 +23,9 @@ Dr. Sanchez is a postdoctoral researcher at a leading university, where she cond
 
 Dr. Sanchez is comfortable using statistical software and programming languages such as R and Python, but she is not an expert in web development. She is looking for an interactive tool that allows her to explore global suicide data easily and efficiently, without requiring extensive programming skills.
 
-**Example Use Case Research Questions (Primary tasks [bolded])**:
+**Example Use Case Research Questions**:
 The app will help Dr. Sanchez and other users answer the following research question:
 
 - What are the patterns and trends of suicides globally, and how do they vary by country, year, gender, and age range?
+
 To answer this question, the app will provide users with access to a comprehensive dataset of suicide data from multiple countries and years. Users will be able to interact with the data using a simple and intuitive interface, allowing them to explore trends and patterns visually and to identify potential areas for further research.
