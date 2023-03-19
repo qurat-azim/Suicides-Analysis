@@ -4,7 +4,9 @@ This report outlines the identified problem and proposed dashboard solution.
 
 ## Motivation & Purpose
 
-According to [World Health Organization](https://www.who.int/health-topics/suicide), suicides take away the lives of over 700,00 people globally every year, but many of these are preventable if there are sufficient support resources available. If we could understand the correlation between suicides among different cohorts and across the social economic spectrum, then we may be able to target the appropriate resources to a specific demographic of population. To address this challenge, we propose building a data visualization app that allows doctors and mental health researchers to visually explore a dataset of suicides in countries around the world. Our app will show various socio-economic measurements and allow users to explore the data by filtering and re-ordering on different variables to order to compare socio-economic factors that may affect suicide rates.
+Suicide is a serious public health issue that affects millions of people worldwide each year. According to the World Health Organization, suicide is the second leading cause of death among 15-29 year-olds globally, and it is estimated that around 800,000 people die by suicide each year.
+
+To better understand the scope and impact of this problem, we propose building a Dash app that provides an interactive platform for exploring data about suicides in different countries and years.
 
 ## Data Description
 
@@ -12,13 +14,17 @@ In this project , we are using the [Suicide Rate overview(1985 to 2021)](https:
 
 The Kaggle Dataset is an extension of the original one, created by combining four other datasets that are related in terms of time and location. Its purpose is to identify patterns that may be linked to higher suicide rates across various demographic groups worldwide, spanning the full range of socioeconomic levels. It contains 31,756 global observations from 1985 to 2021 over 12 variables. 
 
-We will be visualizing data from multiple perspectives. Map of country-wise comparison based on `GDP`/`suicide rate` would give us insight of whether GDP and suicide rate are overall correlated or not. Several line/bar charts, based on `age` and `gender`, take us one step further to see whether age/gender is correlated to suicide rate and if so by how much, graphically speaking. If time permits, we might be tempted to make an animation of our data to visualize the change over `years`. 
 
 ## User Persona & Research Questions
 
-**User Persona**: Medical professionals such as psychiatrists, nurses, or doctors who want to understand how suicide rates have changed between countries over time. Our users typically have moderate data/computer literacy so this dashboard allows for them to explore and attempt to answer their own questions easily and efficiently.
+**User Persona**:Our target audience for this app includes researchers, policymakers, and anyone interested in understanding the patterns and trends of suicides globally. Our user persona is Dr. Maria Sanchez, a public health researcher who specializes in suicide prevention.
+
+Dr. Sanchez is a postdoctoral researcher at a leading university, where she conducts research on suicide prevention and mental health. She is interested in using data to better understand the factors that contribute to suicide risk, and to identify effective prevention strategies.
+
+Dr. Sanchez is comfortable using statistical software and programming languages such as R and Python, but she is not an expert in web development. She is looking for an interactive tool that allows her to explore global suicide data easily and efficiently, without requiring extensive programming skills.
 
 **Example Use Case Research Questions (Primary tasks [bolded])**:
-1. Brian is a doctor working in mental health and is considering moving to a different country. Brian wants to **[compare]** how his current countries suicide rate and attributes compares to the countries he is considering moving to.
-2. Josee is a nursing student and wants to understand & **[visualize]** how suicide rates in her country and surrounding countries have changed over time.
-3. Connie is a mental health researcher and wants to **[dissect]** the suicide dataset into her population of interest. By looking at countries comparisons by age, date range, region, sex, etc. she hopes to save time from doing the analysis herself and decide where to focus her effort.
+The app will help Dr. Sanchez and other users answer the following research question:
+
+- What are the patterns and trends of suicides globally, and how do they vary by country, year, gender, and age range?
+To answer this question, the app will provide users with access to a comprehensive dataset of suicide data from multiple countries and years. Users will be able to interact with the data using a simple and intuitive interface, allowing them to explore trends and patterns visually and to identify potential areas for further research.
