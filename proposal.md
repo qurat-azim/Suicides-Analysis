@@ -10,9 +10,13 @@ To better understand the scope and impact of this problem, we propose building a
 
 ## Data Description
 
-In this project , we are using the [Suicide Rate overview(1985 to 2021)](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021). This data set contains rate of suicides based on various socio-economic factors such as `country`, `GDP`, `age`, `gender` etc. 
+The [Suicide Rates Overview dataset]((https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021)), available on Kaggle, provides information on suicide rates for different countries across the world, spanning from 1985 to 2021. The dataset is collected from various sources, including the World Health Organization (WHO), the United Nations Development Programme (UNDP), and the World Bank.
 
-The Kaggle Dataset is an extension of the original one, created by combining four other datasets that are related in terms of time and location. Its purpose is to identify patterns that may be linked to higher suicide rates across various demographic groups worldwide, spanning the full range of socioeconomic levels. It contains 31,756 global observations from 1985 to 2021 over 12 variables. 
+The dataset consists of 12 columns, including country, year, sex, age group, population count, suicide count, suicide rate, GDP, GDP per capita, HDI, HDI category, and generation. The country column lists the name of the country, the year column represents the year in which the data was recorded, and the sex column indicates the gender of the individual who committed suicide. The age group column specifies the age group of the individual, and the population count column provides information on the total population of the country in that particular year. The suicide count column specifies the number of suicides recorded for a given demographic group, while the suicide rate column represents the number of suicides per 100,000 people in that particular demographic group.
+
+The dataset also includes information on the Gross Domestic Product (GDP) and GDP per capita of each country in that particular year, as well as the Human Development Index (HDI) and HDI category, which provide an overall measure of a country's well-being. The generation column categorizes individuals based on their birth year, such as Silent, Boomer, Generation X, Millennial, and Generation Z.
+
+Overall, the Suicide Rates Overview dataset provides a comprehensive view of suicide rates and demographic patterns across the world. It can be used to identify trends and patterns in suicide rates over time, as well as to investigate the impact of various economic and social factors on suicide rates. The dataset has been used in various studies and research projects, and it continues to be a valuable resource for researchers and policymakers alike.
 
 
 ## User Persona & Research Questions
