@@ -3,7 +3,7 @@
 Contributions are welcome, and they are greatly appreciated! Every little bit
 helps, and credit will always be given.
 
-If you notice a bug or have a feature request, please [here](https://github.com/UBC-MDS/suicide_indicator_r/issues). All contributors must abide by our [code of conduct](https://github.com/UBC-MDS/suicide_indicator_r/blob/main/CODE_OF_CONDUCT.md).
+If you notice a bug or have a feature request, please [here]([https://github.com/UBC-MDS/suicide_indicator_r/issues](https://github.com/qurat-azim/Suicides-Analysis-Dash/issues)). All contributors must abide by our [code of conduct](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/CODE_OF_CONDUCT.md).
 
 ## Types of Contributions
 
@@ -42,7 +42,7 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Please open up an issue [here](https://github.com/UBC-MDS/suicide_indicator_r/issues).
+Ready to contribute? Please open up an issue [here](https://github.com/qurat-azim/Suicides-Analysis-Dash/issues).
 
 ## Pull Request Guidelines
 
@@ -54,5 +54,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `suicide_indicator_r` project is released with a
-Code of Conduct. By contributing to this project you agree to abide by its terms.
+Please note that the `suicides-Analysis-Dash` project is released with a
+[Code of Conduct](https://github.com/qurat-azim/Suicides-Analysis-Dash/blob/main/CODE_OF_CONDUCT.md). By contributing to this project you agree to abide by its terms.
