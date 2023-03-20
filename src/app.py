@@ -28,8 +28,11 @@ app.layout = dbc.Container([
                 id='ycol-widget',
                 min=df['year'].unique().min(),
                 max=df['year'].unique().max(),
+                step=1,
                 value=2000,  # REQUIRED to show the plot on the first page load
-                marks={1985: '1985', 1992: '1992', 1999: '1999', 2006: '2006', 2013: '2013', 2020: '2020'})],
+                marks={1985 : '1985', 2020 : '2020'},
+                tooltip={"placement": "bottom", "always_visible": True}
+                )],
             md=4),
         dbc.Col([
             dbc.Row([
